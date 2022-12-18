@@ -14,7 +14,7 @@
 9)  in Bookings the multi shaded was added at buttons as per instructions
 10)  Worked on UI enhancements of notifications page and its details.
 11)  Had a meeting with the team, created the build of the app and send it to Ma'am. also tested the app with service panel in many scenerios.
-    ### Time consumed : 4H:40M
+### Time consumed : 4H:40M
 
 ### ||-----12-18-2022--------||
 1) Merged my  Code to main branch
