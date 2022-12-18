@@ -14,6 +14,7 @@
 9)  in Bookings the multi shaded was added at buttons as per instructions
 10)  Worked on UI enhancements of notifications page and its details.
 11)  Had a meeting with the team, created the build of the app and send it to Ma'am. also tested the app with service panel in many scenerios.
+12)  Bookings tab were center aligned.
 ### Time consumed : 4H:40M
 
 ### ||-----12-18-2022--------||
@@ -23,3 +24,4 @@
 4) In "My Bookings page" the UI buttons were not responsive so I made it.
 5) Created the build APK and sent to Ma'am
 6) Had a meeting with the "Ma'am" and "Ibraheem"
+### Time Consumed : 2H:19M
