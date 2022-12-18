@@ -24,4 +24,8 @@
 4) In "My Bookings page" the UI buttons were not responsive so I made it.
 5) Created the build APK and sent to Ma'am
 6) Had a meeting with the "Ma'am" and "Ibraheem"
-### Time Consumed : 2H:19M
+7) In Transaction History page transaction status created, both buttons were added and redesigned, amount added, service title added,yellow shade added and search filters were created.
+8) Att all tabs of(4 pages) "My bookings page" the buttons row realigned as per instructions, at inprogress page the 50 % paid deleted ,amount added, at completed page the yello shade button added, at all 4 pages the elevated drop shadows removed inprogress the amount is now in green. at completed the total paid amount is visible.
+9) In transaction history page the drop shadows also removed.
+10) in analytics the old graph is deleted and new one is created from scratch animation is also added to graph.
+### Time Consumed : 4H:37M
