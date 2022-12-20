@@ -38,4 +38,5 @@
 ### ||-----12-20-2022--------||
 1) Review the code of ibraheem and merged to main. Also tested it.
 2) Created a custom dropDown buton and put it in create estimate page to choose the car from a list.
-### Time Consumed :working
+3) Refactoring of the code is started by today to clean the entire project code structure.
+### Time Consumed : 3h:04M
