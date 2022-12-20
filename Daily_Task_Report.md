@@ -29,3 +29,13 @@
 9) In transaction history page the drop shadows also removed.
 10) in analytics the old graph is deleted and new one is created from scratch animation is also added to graph.
 ### Time Consumed : 4H:37M
+
+### ||-----12-19-2022--------||
+1) Review the code of ibraheem and merged to main. Also tested it.
+2) Removed the drop shadows and elevation from all booking pages and transaction history, ald then reshape the entire pages cards with similar to main home page of the app.
+### Time Consumed : 1H:16M
+
+### ||-----12-20-2022--------||
+1) Review the code of ibraheem and merged to main. Also tested it.
+2) Created a custom dropDown buton and put it in create estimate page to choose the car from a list.
+### Time Consumed :working
