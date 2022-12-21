@@ -40,3 +40,10 @@
 2) Created a custom dropDown buton and put it in create estimate page to choose the car from a list.
 3) Refactoring of the code is started by today to clean the entire project code structure.
 ### Time Consumed : 3h:04M
+
+### ||-----12-21-2022--------||
+1) Integrated the static car selection in booking ApI.
+2) Performed the refactoring of the entire code.
+3) Tested the whole app after refactoring and created a list of tasks needs to be done from backend functionality.
+4) Eliminated the drop shadows of the entire App and replaced with a new background. also some buttons and texts adjustments. 
+### Time Consumed : 4h:30M
