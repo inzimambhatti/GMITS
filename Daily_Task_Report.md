@@ -47,3 +47,13 @@
 3) Tested the whole app after refactoring and created a list of tasks needs to be done from backend functionality.
 4) Eliminated the drop shadows of the entire App and replaced with a new background. also some buttons and texts adjustments. 
 ### Time Consumed : 4h:30M
+
+---------------- Some days gone due to mishap and minor work for some hours-----------------------------------
+
+### ||-----12-28-2022--------||
+1) Get code from From ibraheem and Review the entire code.
+2) Created the setup for code and pushed to main branch.
+3) Tested the whole app after running the code created build and sent it to maam.
+4) In Booking the resubmitted booking status handled . 
+5) Meeting with the Raheel flutter guy explained the entire code and project to him
+### Time Consumed : 2h:34M
