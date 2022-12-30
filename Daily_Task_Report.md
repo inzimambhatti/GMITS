@@ -66,4 +66,6 @@
 
 ### ||-----12-30-2022--------||
 1) Arabic transalation at (in progress booking page,completed booking page, Cancelled booking page, View Booking page). DONE
-## 1H:47m
+2) Arabic transalation at (view estimation page,partial pay , full pay, in view booking all statuses,thank you page, ratting page,reschedual page). DONE
+
+## 4H:13m
