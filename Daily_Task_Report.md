@@ -1,4 +1,4 @@
-# /*----------------------GMITS -----------------------*/
+# /*----------------------GMITS ----------------------------------------*/
  
 ## /*-----------Daily Task Report Inzimam Bhatti -----------------------*/
 
@@ -15,7 +15,7 @@
 10)  Worked on UI enhancements of notifications page and its details.
 11)  Had a meeting with the team, created the build of the app and send it to Ma'am. also tested the app with service panel in many scenerios.
 12)  Bookings tab were center aligned.
-### Time consumed : 4H:40M
+## Time consumed : 4H:40M
 
 ### ||-----12-18-2022--------||
 1) Merged my  Code to main branch
@@ -28,25 +28,25 @@
 8) Att all tabs of(4 pages) "My bookings page" the buttons row realigned as per instructions, at inprogress page the 50 % paid deleted ,amount added, at completed page the yello shade button added, at all 4 pages the elevated drop shadows removed inprogress the amount is now in green. at completed the total paid amount is visible.
 9) In transaction history page the drop shadows also removed.
 10) in analytics the old graph is deleted and new one is created from scratch animation is also added to graph.
-### Time Consumed : 4H:37M
+## Time Consumed : 4H:37M
 
 ### ||-----12-19-2022--------||
 1) Review the code of ibraheem and merged to main. Also tested it.
 2) Removed the drop shadows and elevation from all booking pages and transaction history, ald then reshape the entire pages cards with similar to main home page of the app.
-### Time Consumed : 1H:16M
+## Time Consumed : 1H:16M
 
 ### ||-----12-20-2022--------||
 1) Review the code of ibraheem and merged to main. Also tested it.
 2) Created a custom dropDown buton and put it in create estimate page to choose the car from a list.
 3) Refactoring of the code is started by today to clean the entire project code structure.
-### Time Consumed : 3h:04M
+## Time Consumed : 3h:04M
 
 ### ||-----12-21-2022--------||
 1) Integrated the static car selection in booking ApI.
 2) Performed the refactoring of the entire code.
 3) Tested the whole app after refactoring and created a list of tasks needs to be done from backend functionality.
 4) Eliminated the drop shadows of the entire App and replaced with a new background. also some buttons and texts adjustments. 
-### Time Consumed : 4h:30M
+## Time Consumed : 4h:30M
 
 ---------------- Some days gone due to mishap and minor work for some hours-----------------------------------
 
@@ -57,3 +57,13 @@
 4) In Booking the resubmitted booking status handled . 
 5) Meeting with the Raheel flutter guy explained the entire code and project to him
 ### Time Consumed : 2h:34M
+
+### ||-----12-29-2022--------||
+1) Traced the profile picture setting issue and resolved.
+2) testing the app and api  small fixes
+3) Arabic translation at drawer, services page, pending bookings page
+## 3H:10m
+
+### ||-----12-30-2022--------||
+1) Arabic transalation at (in progress booking page,completed booking page, Cancelled booking page, View Booking page). DONE
+## 1H:47m
