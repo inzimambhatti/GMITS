@@ -69,3 +69,8 @@
 2) Arabic transalation at (view estimation page,partial pay , full pay, in view booking all statuses,thank you page, ratting page,reschedual page). DONE
 
 ## 4H:13m
+
+### ||-----12-31-2022--------||
+1) Animated Whats Chat icon creation And Whats Chat Integrated,
+
+## 3H:00m
