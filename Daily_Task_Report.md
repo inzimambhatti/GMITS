@@ -71,6 +71,14 @@
 ## 4H:13m
 
 ### ||-----12-31-2022--------||
-1) Animated Whats Chat icon creation And Whats Chat Integrated,
+1) Animated Whats App Chat icon creation And Whats App  Chat Integrated,
 
 ## 3H:00m
+### ||-----01-01-2023--------||
+1) on sunday leave
+## 0H:00m
+
+### ||-----01-02-2022--------||
+1) Tested the entire app with service  panel and reported the bugs in bugs report
+
+## 2H:47m
