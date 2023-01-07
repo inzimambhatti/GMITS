@@ -78,7 +78,40 @@
 1) on sunday leave
 ## 0H:00m
 
-### ||-----01-02-2022--------||
+### ||-----01-02-2023--------||
 1) Tested the entire app with service  panel and reported the bugs in bugs report
 
 ## 2H:47m
+
+
+### ||-----01-03-2023--------||
+1) App testing and bug fixing as in the bugs sheet
+
+## 2H:28m
+
+### ||-----01-04-2023--------||
+1) Traced the rating API issue of the App as per in the bug sheet.
+2) Tested the booking flow
+
+## 1H:43m
+
+### ||-----01-05-2023--------||
+1) Worked On issues of conflicts and resolved the merging issues.
+2) Rating API data fetching done. Now working fine
+
+## 3H:07m
+
+
+### ||-----01-06-2023--------||
+1)Whole APP testing and provider API bug traced
+2)Some small fixation s as per maams instructions
+
+## 2H:11m
+### ||-----01-07-2023--------||
+1) Notifications testing  with service panel in many scenerios
+2) Entire Booking FLow Tested 
+3) Worked On Provider Profile to resolve Internal server error issue
+4) Integrated Delete Booking API
+5) RefreshIndicators in ALL Booking Tabs
+6) Restricted The API Hitting every time the page Loads
+### 3h 05m
