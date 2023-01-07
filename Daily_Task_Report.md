@@ -113,5 +113,5 @@
 3) Worked On Provider Profile to resolve Internal server error issue
 4) Integrated Delete Booking API
 5) RefreshIndicators in ALL Booking Tabs
-6) Restricted The API Hitting every time the page Loads
+6) Restricted The API Hitting every time the page Loads in All Booking Tabs
 ### 3h 05m
