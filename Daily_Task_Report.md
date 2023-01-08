@@ -117,14 +117,14 @@
 ### 3h 05m
 
 ### ||-----01-08-2023--------||
-1.delete booking API  in cancelled booking tab.
-2.rating screen feedback box hide behind keyboard issue resolved,rated status resolved
-3.Code pushing to main branch after resolving hte confilcts
-4. linkedin Page integration
-5.In Wallet page other fiels removed just Add car is remaining 
-6.in refrel link Balance changed to AED 10 (App logo url Also added,)
-7.Analytics graph and colors changed
-8.in Profile page Car Image Added
-9.Removed chat ptions from drawer and bottom bar
-10. Created two builds
+1) delete booking API  in cancelled booking tab.
+2) rating screen feedback box hide behind keyboard issue resolved,rated status resolved
+3) Code pushing to main branch after resolving hte confilcts
+4) linkedin Page integration
+5) In Wallet page other fiels removed just Add car is remaining 
+6) in refrel link Balance changed to AED 10 (App logo url Also added,)
+7) Analytics graph and colors changed
+8) in Profile page Car Image Added
+9) Removed chat ptions from drawer and bottom bar
+10) Created two builds
 ### 3h 18m
