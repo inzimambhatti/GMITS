@@ -128,3 +128,17 @@
 9) Removed chat ptions from drawer and bottom bar
 10) Created two builds
 ### 3h 18m
+
+
+
+### ||-----01-13-2023--------||
+1) Code of thalhatehseen branch is reviewed and  merged to main branch
+2) Filter by date and title in pending booking
+3) Filter by date and title in Inprogress booking
+4) Filter by date and title in completed booking
+5) Filter by date and title in Cancelled booking
+6) Filter by date and title in transaction history 
+7) delete booking API issue in completed and cancelled tab is resolved.
+8) Internal server error in wallet is resolved
+9) Build created and provided
+### 4h 03m
