@@ -142,3 +142,12 @@
 8) Internal server error in wallet is resolved
 9) Build created and provided
 ### 4h 03m
+
+### ||-----01-14-2023--------||
+1) App Issues testing with servis panel
+2) Date filter with calender in booking 4 tabs 
+3) date filter calender in transaction history
+4) Total 5 APK Builds with diffrent local URL for Ma'am and Malik
+5) Bottom bar height decreased and pdf opening issu resolved in transaction history 
+
+### 2h 24m
