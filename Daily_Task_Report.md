@@ -151,3 +151,14 @@
 5) Bottom bar height decreased and pdf opening issu resolved in transaction history 
 
 ### 2h 24m
+### ||-----01-15-2023--------||
+Meeting and code push with APP test 
+
+### 0h 20m
+
+
+### ||-----01-15-2023--------||
+1) Promotion banner Slider creation
+2) Promotion banner locations accoding to page
+3) profile verify button and textfiled borders adjustment 
+### 2h 18m
