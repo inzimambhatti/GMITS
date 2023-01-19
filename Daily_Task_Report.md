@@ -157,8 +157,27 @@ Meeting and code push with APP test
 ### 0h 20m
 
 
-### ||-----01-15-2023--------||
+### ||-----01-16-2023--------||
 1) Promotion banner Slider creation
 2) Promotion banner locations accoding to page
 3) profile verify button and textfiled borders adjustment 
 ### 2h 18m
+
+
+### ||-----01-17-2023--------||
+1) Promition booking history screen UI creation
+2)Promition booking history screen API integration <IP> 
+
+### 2h 06m
+ 
+### ||-----01-18-2023--------||
+1) Some small Tasks and bugs
+ 
+### 0h 21m
+ 
+ 
+### ||-----01-19-2023--------||
+1)Promition booking history screen API integration Completed
+2) Filteredby date and filter by promotion title impleted
+ 
+### 3h 07m
