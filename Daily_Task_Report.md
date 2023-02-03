@@ -181,3 +181,65 @@ Meeting and code push with APP test
 2) Filteredby date and filter by promotion title impleted
  
 ### 3h 07m
+ ----------------------------------------------------------------------------------------------------------------------------------
+ ### ======================Started as a Team Leader=============================================================
+ ### ||-----01-22-2023--------||
+1) Testing in Bookings module with p[ostman and mobile app
+2) Changes in my bookings pages
+ 
+### 0h 40m
+### -------------------------------
+ 
+ ### ||-----01-26-2023--------||
+1) Created Production , local, dev seprate url and tested the app.
+ 
+### 0h 27m
+### -------------------------------
+ 
+ ### ||-----01-27-2023--------||
+1) Research On second line of the app with the postman apis collection and the UI allready created.
+2) Created the task list via ghoogle sheet for Zameer haider 
+3) Build created and sent to maam
+ 
+### 1h 19m
+### -------------------------------
+ 
+ ### ||-----01-28-2023--------||
+1)Code Reviewed
+2)Code merged 
+3) Changes tested
+4) Meeting with zaid and told api requiremnts in details
+5) Build created
+### 1h 16m
+### -------------------------------
+ 
+### ||-----01-29-2023--------||
+1) Code from haider reviewed and PR merged to main branch 
+2) Small meeting with maam.
+3)Tsk list for haider is updated by seeing the figma UI 
+ 
+### 1h 30m
+### -------------------------------
+ 
+ ### ||-----01-30-2023--------||
+1) Entire App testing in dev with service panel and inzimamb5@gmail.com account established for demo.
+ 2) meeting zaid hamza maam with haider about code merge and new tasks
+ 3)Code merge and review
+ 4)Promotion Booking API integrated
+ 
+### 1h 52m
+### -------------------------------
+ 
+ ### ||-----01-31-2023--------||
+1)Moved to production tested the App in production url with panel and booking creation
+error report in production
+ 
+### 1h 12m
+### -------------------------------
+ 
+ ### ||-----02-02-2023--------||
+1)Promition booking history screen API integration Completed
+2) Filteredby date and filter by promotion title impleted
+ 
+### 1h 07m
+### -------------------------------
