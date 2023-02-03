@@ -217,6 +217,7 @@ Meeting and code push with APP test
 1) Code from haider reviewed and PR merged to main branch 
 2) Small meeting with maam.
 3)Tsk list for haider is updated by seeing the figma UI 
+ 4) UI of promotion booking history is changes tabs created as per maams instructiuons
  
 ### 1h 30m
 ### -------------------------------
@@ -233,13 +234,12 @@ Meeting and code push with APP test
  ### ||-----01-31-2023--------||
 1)Moved to production tested the App in production url with panel and booking creation
 error report in production
+2)Meet with Zaid about Second line API and Promotio bookiking rating history and mark as completed
  
 ### 1h 12m
 ### -------------------------------
  
  ### ||-----02-02-2023--------||
-1)Promition booking history screen API integration Completed
-2) Filteredby date and filter by promotion title impleted
- 
+1) meeting with Zaid, Hamza Maam and zameer to resolve the backend issues, then meeting with zameer to discuss front end production nisses alsoo front en d iisues of second line 
 ### 1h 07m
 ### -------------------------------
