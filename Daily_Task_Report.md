@@ -250,16 +250,13 @@ error report in production
 2) Home Screen Redisign for categories 
 ### 1h 033m
  ===============================================
- -                                            -
- -                                            -
- -     total Hours=163H 40M                   -
- -       First pay=40K   PKR for 120H 00M     -
- -      Second Pay=28107 PKR for 43H 40M + advance
- -                                            -
- -                                            -
- -                                            -
+
+ - Total Hours=163H 40M                   
+ - First pay=40K   PKR for 120H 00M     
+ - Second Pay=28107 PKR for 43H 40M + advance
+
  ===============================================
-### ----------------------------------------------
+### ---------------------------------------------
  
 ### ||-----02-05-2023--------||                         
  
