@@ -243,3 +243,26 @@ error report in production
 1) meeting with Zaid, Hamza Maam and zameer to resolve the backend issues, then meeting with zameer to discuss front end production nisses alsoo front en d iisues of second line 
 ### 1h 07m
 ### -------------------------------
+ 
+  ### ||-----02-04-2023--------||                         
+ 
+1) Meeting with zaid, Suleman, Zameer 
+2) Home Screen Redisign for categories 
+### 1h 033m
+ ===============================================
+ -                                            -
+ -                                            -
+ -     total Hours=163H 40M                   -
+ -       First pay=40K   PKR for 120H 00M     -
+ -      Second Pay=28107 PKR for 43H 40M + advance
+ -                                            -
+ -                                            -
+ -                                            -
+ ===============================================
+### ----------------------------------------------
+ 
+### ||-----02-05-2023--------||                         
+ 
+1) Created two builds one for production and other for development
+### 0h 10m
+ ------------------------------------------------
