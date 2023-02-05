@@ -251,9 +251,9 @@ error report in production
 ### 1h 033m
  ===============================================
 
- - Total Hours=163H 40M   -                
- - First pay=40K   PKR for 120H 00M -    
- - Second Pay=28107 PKR for 43H 40M + advance  -
+ - Total Hours=163H 40M               
+ - First pay=40K   PKR for 120H 00M     
+ - Second Pay=28107 PKR for 43H 40M + advance  
 
  ===============================================
 ### ---------------------------------------------
