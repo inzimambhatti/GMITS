@@ -263,3 +263,9 @@ error report in production
 1) Created two builds one for production and other for development
 ### 0h 10m
  ------------------------------------------------
+ 
+ ### ||-----02-08-2023--------||                         
+ 
+1) PR Merging and build creation login testing
+### 0h 37m
+ ------------------------------------------------
