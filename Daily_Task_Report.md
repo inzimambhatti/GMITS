@@ -269,3 +269,14 @@ error report in production
 1) PR Merging and build creation login testing
 ### 0h 37m
  ------------------------------------------------
+ 
+  ### ||-----02-09-2023--------||                         
+ 
+1) Over all complete app flow testing and bug reporting
+2) Analytics API faild issues fixed
+3) Two times build created
+4) At dashboard category item text overflow issue resolved and coming soon issue resolved
+5) Meeting with Ma'am and Zameed Haider
+6) Pr merged raised by haider
+### 2h 00m
+ ------------------------------------------------
