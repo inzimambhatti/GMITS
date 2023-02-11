@@ -280,3 +280,11 @@ error report in production
 6) Pr merged raised by haider
 ### 2h 14m
  ------------------------------------------------
+ 
+ ### ||-----02-10-2023--------||                         
+ 
+1) Translation at profile page, booking details, estimation screens, provider images was empty issue resolved
+2) Meeting with hamza
+
+### 2h 21m
+ ------------------------------------------------
