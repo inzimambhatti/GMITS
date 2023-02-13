@@ -281,10 +281,28 @@ error report in production
 ### 2h 14m
  ------------------------------------------------
  
- ### ||-----02-10-2023--------||                         
+ ### ||-----02-11-2023--------||                         
  
 1) Translation at profile page, booking details, estimation screens, provider images was empty issue resolved
 2) Meeting with hamza
 
 ### 2h 21m
+ ------------------------------------------------
+ 
+  
+ ### ||-----02-12-2023--------||                         
+ 
+1) meeting with maam and zia
+
+### 0h 25m
+ ------------------------------------------------
+ 
+ 
+ 
+  
+ ### ||-----02-13-2023--------||                         
+ 
+1) meeting with Zia and Zameer haider removed dummy data fom the app, tested some apis also
+
+### 1h 31m
  ------------------------------------------------
