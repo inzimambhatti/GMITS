@@ -306,3 +306,11 @@ error report in production
 
 ### 1h 31m
  ------------------------------------------------
+ 
+  ### ||-----02-14-2023--------||                         
+ 
+1) Rating  to promotion booking history is done 
+2) Devservice panel account creation and promotion creations 
+
+### 1h 31m
+ ------------------------------------------------
