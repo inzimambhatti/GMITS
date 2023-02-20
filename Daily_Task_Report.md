@@ -347,6 +347,11 @@ error report in production
 1) Testing the Profile Page for phone number varifications and updation
 2) Setting up the project new dependency and updated the packeges versions
 3) Pr raised by Zameer is reviewd and merged to main.
-### 1H:01M
+ 4) In profile single image uploaded and updated
+ 5) Individual fon updated in profile also the app testing in many scenerios
+ 6) Code running in downgrade version on zameer machine in a meeting 
+ 7)meeting with zia maam and zameer
+ 8)code pushed and merged build created
+### 3H:05M
  --------------------------------------------------------
  
