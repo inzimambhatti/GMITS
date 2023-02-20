@@ -307,10 +307,46 @@ error report in production
 ### 1h 31m
  ------------------------------------------------
  
-  ### ||-----02-14-2023--------||                         
+### ||-----02-14-2023--------||                         
  
 1) Rating  to promotion booking history is done 
-2) Devservice panel account creation and promotion creations 
+2) Dev service panel account creation and promotion creations 
+3) Meeting with Maam zameer and zia ur rehman 
 
-### 1h 31m
+### 2h 09m
  ------------------------------------------------
+  ### ||-----02-15-2023--------||                         
+ 
+1) Splash screen video place=    done
+2) icon should blue=Done
+3) category card should be clickable=    done
+4) On login screen appbar and floating button remove=    done
+5) notification preparing services should not appear everytime =     done
+6) Support number change =     done
+
+### 1H :32M
+ ------------------------------------------------
+ 
+ 
+ ### ||-----02-16-2023--------||                         
+ 
+1) The Arabic translation at entire profile page and some other screens  with login and registrations testing account creation
+
+### 1H : 12M
+ 
+ -----------------------------------------------
+ ### ||-----02-17-2023--------||                         
+ 
+1)Small testing and verifying some tests in the app for backend guys related to images of services and profile logos 
+
+### 00H:19m
+ 
+ --------------------------------------------------
+  ### ||-----02-20-2023--------||                         
+ 
+1) Testing the Profile Page for phone number varifications and updation
+2) Setting up the project new dependency and updated the packeges versions
+3) Pr raised by Zameer is reviewd and merged to main.
+### 1H:01M
+ --------------------------------------------------------
+ 
