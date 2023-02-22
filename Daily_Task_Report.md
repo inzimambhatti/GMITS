@@ -355,3 +355,14 @@ error report in production
 ### 3H:05M
  --------------------------------------------------------
  
+  ------------------------------------------------
+ 
+ 
+ ### ||-----02-22-2023--------||                         
+ 
+1) Testing the booking and error tracing in the inprogress booking for whats app support
+
+### 1H : 12M
+ 
+ -----------------------------------------------
+ 
