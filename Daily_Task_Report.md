@@ -361,8 +361,13 @@ error report in production
  ### ||-----02-22-2023--------||                         
  
 1) Testing the booking and error tracing in the inprogress booking for whats app support
+2.otobucks name=done
+3.whatsapp number in  inprogress booking =done
+4. in analytics remove extra above material=done
+5.bottombar add support option=done
+6. null handling in booking portion =done
 
-### 1H : 12M
+### 2H : 55M
  
  -----------------------------------------------
  
