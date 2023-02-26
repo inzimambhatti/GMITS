@@ -371,3 +371,30 @@ error report in production
  
  -----------------------------------------------
  
+  ### ||-----02-23-2023--------||                         
+ 
+1) Merged the  pull request code from Zammer
+2) Meeting wit Ma'am, Zameer, and zia 
+3) App new build creation
+### 0H : 57M
+ 
+ -----------------------------------------------
+ 
+  ### ||-----02-24-2023--------||                         
+ 
+1) meeting with Maam, Saudi account creation and api testing for Zia ur Rehman
+
+### 0H : 18M
+ 
+ -----------------------------------------------
+ 
+  ### ||-----02-26-2023--------||                         
+ 
+1) Tested The Emergency API
+2) Meeting with Zia ur Rehman about issue of Emergency API
+3) Emergency API integration in flutter moble app
+
+### 1H : 54M
+ 
+ -----------------------------------------------
+ 
