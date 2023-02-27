@@ -398,3 +398,14 @@ error report in production
  
  -----------------------------------------------
  
+  ### ||-----02-27-2023--------||                         
+ 
+1) Dispute bookings page(folder) from scrach
+2) Open dispute page creation from scratch
+3) in inprogress and completed booking open dispute options
+4) Meeting with Ma'am and zia
+
+### 3H : 10M
+ 
+ -----------------------------------------------
+ 
