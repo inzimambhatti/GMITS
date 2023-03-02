@@ -420,6 +420,25 @@ error report in production
 4) Meeting with Zameer
 5) PR merged and code pushed to main
 ### 1H : 41M
+ ------------------------------------------------------------------------
  
- -----------------------------------------------
+###  ||--------------------1-3-2023-----||
+Tested the complete application circle with admin and service panels too,
+added services and promotions.
+1- Service Images are not showing
+2- profile image of provider(logo)not showing
+3- while give rating from moble app to provider api says email undefined , but rating still submitted successfully
+4-while give rating from provider to mobile app api says rating failed, but rating still submitted successfully
+5-Partial pay transaction still not coming in transaction history
+6-Invited friend needs to be check
+7-created promotion and tried to book but in api a field is empty so not able to book it
+8-Analytics api issue from front end resilved now its working fine
  
+### 2H : 44M
+--------------------------------------------------------------------------
+ 
+ 
+ -------------------------------------------------------------------------
+ ###  ||----------------------- 2-3-2023-----------------||
+ 
+### 00H : 37M consumed in last task of (1-3-2023)
