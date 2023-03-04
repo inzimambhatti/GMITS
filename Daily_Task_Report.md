@@ -441,4 +441,28 @@ added services and promotions.
  -------------------------------------------------------------------------
  ###  ||----------------------- 2-3-2023-----------------||
  
-### 00H : 37M consumed in last task of (1-3-2023)
+1) 00H : 37M consumed in last task of (1-3-2023)
+2)Meeting with zia maam and about backend and front end discussions
+3) Traced the issues and errors in APIs mentioned in previous day(1-3-2023) by testing from both the dev and prod.
+### 3h:48M 
+ ----------------------------------------------------------------------------
+  ###  ||----------------------- 3-3-2023-----------------||
+ 
+1)Created the tasks lists for Zeeshan to resolve with notes.
+2) Meeting with zeeshan and Maam.
+3)Null safety issue resolved in bookings page
+4) no car added message while booking service
+5) Traced an issue with images of servoces and provider testing perforemd in both DEV and Prod
+6) Traced the issues and errors in APIs mentioned in previous day(1-3-2023) by testing from both the dev and prod.
+7) Sat online in meeting with zeeshan to resolve backend issues
+### 2h:23M 
+ ----------------------------------------------------------------------------
+ 
+   ###  ||----------------------- 4-3-2023-----------------||
+ 
+1) Tested the changes done by zeeshan with both postamn and mobile app.
+2) There occured an issue in bookings history during testing, traced it and created the task list for zeeshan again
+3) implemented the Ananlytics apis changes in mobile ap.
+4) Put null safety in bookingswhen grandAmount and tax is null while half pay and full pay.
+### 2h:00M 
+ ----------------------------------------------------------------------------
