@@ -466,3 +466,11 @@ added services and promotions.
 4) Put null safety in bookingswhen grandAmount and tax is null while half pay and full pay.
 ### 2h:00M 
  ----------------------------------------------------------------------------
+###  ||------------------------7-3-2023-----------------||
+ 
+1) Tested the api work assigned to zeeshan in app and post man
+2) Did booking from service panel and mobile app, ran promotions and tested the transaction weather coming in history or not
+3) Created remaining tasks lists for Abdul Wajid
+4) Rating in points in services page.
+### 2h:14M 
+ ----------------------------------------------------------------------------
