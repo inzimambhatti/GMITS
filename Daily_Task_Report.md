@@ -474,3 +474,17 @@ added services and promotions.
 4) Rating in points in services page.
 ### 2h:14M 
  ----------------------------------------------------------------------------
+ 
+ ###  ||------------------------9-3-2023-----------------||
+ 
+Tested the APIS assigned to abdul wajid
+ -----------------------------------------PENDING-----------------------------------------------------------------------------------------------
+
+1-  /emergency (POST), Emergency API not working(Invalid google maps key error)=not working same issue
+2-  /disputes (POST),  Create dispute api not working(Booking ID not found error)=creating dispute but status not changing,status should be disputed
+3- {{DEV_URL}}/bookings/bookService, /acceptEstimate,  when a a provider accepts offer from customer in {estimation} object serviceTax,grandtotal is null error
+4- /transactions(GET)  ,giving error of can not read property "id" of undefined=solved
+5- /transactions (GET), partial pay, full pay, promotionBooking transaction all shoud come in transactions, but only full pay transaction is comming =nuot working same iisue
+
+### 00h:50M 
+ ----------------------------------------------------------------------------
