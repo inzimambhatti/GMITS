@@ -478,8 +478,6 @@ added services and promotions.
  ###  ||------------------------9-3-2023-----------------||
  
 Tested the APIS assigned to abdul wajid
- -----------------------------------------PENDING-----------------------------------------------------------------------------------------------
-
 1-  /emergency (POST), Emergency API not working(Invalid google maps key error)=not working same issue
 2-  /disputes (POST),  Create dispute api not working(Booking ID not found error)=creating dispute but status not changing,status should be disputed
 3- {{DEV_URL}}/bookings/bookService, /acceptEstimate,  when a a provider accepts offer from customer in {estimation} object serviceTax,grandtotal is null error
@@ -487,4 +485,39 @@ Tested the APIS assigned to abdul wajid
 5- /transactions (GET), partial pay, full pay, promotionBooking transaction all shoud come in transactions, but only full pay transaction is comming =nuot working same iisue
 
 ### 00h:50M 
+ ----------------------------------------------------------------------------
+
+###  ||------------------------10-3-2023-----------------||
+ API s testings as below
+1) while give rating from moble app to provider api says email undefined , but rating still submitted   successfully=============Done
+3) Analytics api issue from front end resilved now its working fine========================Done Varified 
+4) Add (image) field in /services,/ratings,/transactions,===Done varified
+5_ /transactions(GET)  ,giving error of can not read property "id" of undefined = solved
+
+### 01h:54M 
+ ----------------------------------------------------------------------------
+ 
+###  ||------------------------11-3-2023-----------------||
+1) Tested the /transactions api issue reported to backend list
+2) Tested the /booking API issues fond and reported to backend team 
+3) Tested the /emergency API issues fond and reported to backend team 
+4) Tested the /dispute API issues fond and reported to backend team 
+
+
+### 01h:43M 
+ ----------------------------------------------------------------------------
+ 
+###  ||------------------------13-3-2023-----------------||
+3) Meeting with maam and and backend guy Usman Jamil Resolved the Transactio  API issue + Emergency API issue
+2) Traced the estimation api issue which was from front end (grandTotal, serviceTax)
+
+### 01h:36M 
+ ----------------------------------------------------------------------------
+ 
+###  ||------------------------14-3-2023-----------------||
+1) Partial payment transaction history integration done
+2) GetDispute + PostDispute API integration done
+3) Two time meeting with maam and and backend team
+
+### 02h:19M 
  ----------------------------------------------------------------------------
