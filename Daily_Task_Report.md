@@ -524,3 +524,11 @@ Tested the APIS assigned to abdul wajid
  ### Total Hours= 212H:27M
  ### Amount Rceived=28K+40K=68K
  ----------------------------------------------------------------------------
+ 
+###  ||------------------------18-3-2023-----------------||
+1) Meeting with Maam, Bilal 
+2) Delete booking API issue resolved
+3) In Dispute API /Front end Admin remarks feature implemented.
+
+### 03h:00M 
+----------------------------------------------------------------------------
