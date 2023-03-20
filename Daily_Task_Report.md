@@ -530,5 +530,22 @@ Tested the APIS assigned to abdul wajid
 2) Delete booking API issue resolved
 3) In Dispute API /Front end Admin remarks feature implemented.
 
-### 03h:00M 
+### 03h:15M 
+----------------------------------------------------------------------------
+ 
+  
+###  ||------------------------19-3-2023-----------------||
+1) Meeting With Bilal and Maam about backend and front end
+2) Multi Provider estimatin creation API tested its working
+3) Multi Provider estimatin creation API integration in front-end In Progress
+
+### 02h:22M 
+----------------------------------------------------------------------------
+###  ||------------------------20-3-2023-----------------||
+1) Meeting With Bilal and Maam about backend and front end
+2) Multi Provider estimatin creation API integration in front-end  is completed and tested its working
+  also registration screen fields tried to shorten build had conflictswith backend so not removed
+3) Code pushed and Build created
+
+### 02h:44M 
 ----------------------------------------------------------------------------
